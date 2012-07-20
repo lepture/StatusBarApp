@@ -12,6 +12,7 @@
 
 @synthesize window = _window;
 @synthesize statusMenu = _statusMenu;
+@synthesize statusBar = _statusBar;
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
