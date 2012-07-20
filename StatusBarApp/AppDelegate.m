@@ -10,7 +10,6 @@
 
 @implementation AppDelegate
 
-@synthesize window = _window;
 @synthesize statusMenu = _statusMenu;
 @synthesize statusBar = _statusBar;
 
