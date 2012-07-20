@@ -12,4 +12,6 @@
 
 @property (assign) IBOutlet NSWindow *window;
 
+@property (weak) IBOutlet NSMenu *statusMenu;
+
 @end

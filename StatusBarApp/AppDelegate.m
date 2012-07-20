@@ -11,6 +11,7 @@
 @implementation AppDelegate
 
 @synthesize window = _window;
+@synthesize statusMenu = _statusMenu;
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
