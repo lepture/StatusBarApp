@@ -28,7 +28,7 @@ It's the time to create a StatusBar App now.
 
 2. Create a cocoa application project
 
-    ![create a project](assets/Step1.jpg)
+    ![create a project](https://github.com/lepture/StatusBarApp/raw/master/assets/Step1.jpg)
 
 3. Name the project **StatusBarApp**
 
@@ -38,7 +38,7 @@ Now you will get an App with window. However, our app is a StatusBar App, it has
 
 The final app should be like:
 
-![application](assets/application.jpg)
+![application](https://github.com/lepture/StatusBarApp/raw/master/assets/application.jpg)
 
 ### Menu
 
@@ -46,20 +46,19 @@ We will create the menu first.
 
 1. Drag a menu to the interface builder
 
-    ![drag a menu](assets/Step2.jpg)
+    ![drag a menu](https://github.com/lepture/StatusBarApp/raw/master/assets/Step2.jpg)
 
 2. Edit the menu item
 
-    ![edit menu item](assets/Step3.jpg)
+    ![edit menu item](https://github.com/lepture/StatusBarApp/raw/master/assets/Step3.jpg)
 
 3. Decorate the menu with seprator
 
-    ![decorate with seprator](assets/Step4.jpg)
+    ![decorate with seprator](https://github.com/lepture/StatusBarApp/raw/master/assets/Step4.jpg)
 
 4. Connect the menu to your code outlet
 
-    ![connect menu outlet](assets/Step5.jpg)
-    ![connect menu outlet](assets/Step6.jpg)
+    ![connect menu outlet](https://github.com/lepture/StatusBarApp/raw/master/assets/Step5.jpg)
 
 
 ### StatusBar
@@ -110,6 +109,8 @@ Fix it in ``StatusBarApp-Info.plist``, add a row:
 Application is agent (UIElement)  = YES
 ```
 
+![connect menu outlet](https://github.com/lepture/StatusBarApp/raw/master/assets/Step6.jpg)
+
 Run your application again, it won't be on the dock, it won't show the menu.
 
 ### Do More
@@ -118,7 +119,7 @@ But you can't quit the application, that could be annoying. We did have a Quit i
 
 Fix it:
 
-![quit](assets/Step7.jpg)
+![quit](https://github.com/lepture/StatusBarApp/raw/master/assets/Step7.jpg)
 
 ## Source Code
 
